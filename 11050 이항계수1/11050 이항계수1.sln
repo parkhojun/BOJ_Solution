@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11050 이항계수1", "11050 이항계수1\11050 이항계수1.vcxproj", "{3EB773DA-7EA3-4756-A27C-3A778AED53CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB773DA-7EA3-4756-A27C-3A778AED53CF}.Debug|x64.ActiveCfg = Debug|x64
+		{3EB773DA-7EA3-4756-A27C-3A778AED53CF}.Debug|x64.Build.0 = Debug|x64
+		{3EB773DA-7EA3-4756-A27C-3A778AED53CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{3EB773DA-7EA3-4756-A27C-3A778AED53CF}.Debug|x86.Build.0 = Debug|Win32
+		{3EB773DA-7EA3-4756-A27C-3A778AED53CF}.Release|x64.ActiveCfg = Release|x64
+		{3EB773DA-7EA3-4756-A27C-3A778AED53CF}.Release|x64.Build.0 = Release|x64
+		{3EB773DA-7EA3-4756-A27C-3A778AED53CF}.Release|x86.ActiveCfg = Release|Win32
+		{3EB773DA-7EA3-4756-A27C-3A778AED53CF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF85C912-3473-41DC-9E2F-80C110AC7AC9}
+	EndGlobalSection
+EndGlobal
